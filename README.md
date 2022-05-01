@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 
 ## Overview
 The purpose of this analysis is to look at Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. This analysis focuses on a dataset of software reviews that we pull from an AWS S3 bucket, perform the ETL process through PySpark, connect to an AWS RDS instance, and load data into pgAdmin.
