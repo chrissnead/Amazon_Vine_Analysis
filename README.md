@@ -22,5 +22,5 @@ With the data given, we could go even further in analyzing different datasets to
 ## Resources
 - Dataset from [Public S3 Bucket](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Software_v1_00.tsv.gz)
 - Language(s): Python, SQL
-- Tools: AWS, Google Colab, PostgresSQL
+- Tools: AWS, Google Colab, pgAdmin, PostgreSQL
 - Libraries: PySpark
