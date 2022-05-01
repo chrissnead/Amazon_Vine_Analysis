@@ -20,7 +20,7 @@ By the data given, the Amazon Vine program could have a slight bias for positive
 With the data given, we could go even further in analyzing different datasets to see if there are any similarities or differences in the Vine program data based on product category. If all datasets are comparable in their conclusion, it can be concluded even more that the program is trustworthy and beneficial to businesses looking to get their products recognized more on Amazon.
 
 ## Resources
-- Dataset from [AWS](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Electronics_v1_00.tsv.gz)
+- Dataset from [Public S3 Bucket](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Software_v1_00.tsv.gz)
 - Language(s): Python, SQL
 - Tools: AWS, Google Colab, PostgresSQL
 - Libraries: PySpark
